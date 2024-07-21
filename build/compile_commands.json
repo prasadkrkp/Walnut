@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/home/rkandukuri/Tutorials/RayTracing/build",
+  "command": "/usr/bin/g++ -I/home/rkandukuri/Tutorials/RayTracing/Walnut/src -I/home/rkandukuri/Tutorials/RayTracing/WalnutApp/src -I/home/rkandukuri/Tutorials/RayTracing/vendor/imgui -I/home/rkandukuri/Tutorials/RayTracing/vendor/stb_image -g -std=gnu++17 -o CMakeFiles/WalnutApp.dir/WalnutApp/src/WalnutApp.cpp.o -c /home/rkandukuri/Tutorials/RayTracing/WalnutApp/src/WalnutApp.cpp",
+  "file": "/home/rkandukuri/Tutorials/RayTracing/WalnutApp/src/WalnutApp.cpp",
+  "output": "CMakeFiles/WalnutApp.dir/WalnutApp/src/WalnutApp.cpp.o"
+},
+{
+  "directory": "/home/rkandukuri/Tutorials/RayTracing/build",
+  "command": "/usr/bin/g++ -I/home/rkandukuri/Tutorials/RayTracing/Walnut/src -I/home/rkandukuri/Tutorials/RayTracing/WalnutApp/src -I/home/rkandukuri/Tutorials/RayTracing/vendor/imgui -I/home/rkandukuri/Tutorials/RayTracing/vendor/stb_image -g -std=gnu++17 -o CMakeFiles/WalnutApp.dir/vendor/imgui/imgui.cpp.o -c /home/rkandukuri/Tutorials/RayTracing/vendor/imgui/imgui.cpp",
+  "file": "/home/rkandukuri/Tutorials/RayTracing/vendor/imgui/imgui.cpp",
+  "output": "CMakeFiles/WalnutApp.dir/vendor/imgui/imgui.cpp.o"
+},
+{
+  "directory": "/home/rkandukuri/Tutorials/RayTracing/build",
+  "command": "/usr/bin/g++ -I/home/rkandukuri/Tutorials/RayTracing/Walnut/src -I/home/rkandukuri/Tutorials/RayTracing/WalnutApp/src -I/home/rkandukuri/Tutorials/RayTracing/vendor/imgui -I/home/rkandukuri/Tutorials/RayTracing/vendor/stb_image -g -std=gnu++17 -o CMakeFiles/WalnutApp.dir/vendor/imgui/imgui_demo.cpp.o -c /home/rkandukuri/Tutorials/RayTracing/vendor/imgui/imgui_demo.cpp",
+  "file": "/home/rkandukuri/Tutorials/RayTracing/vendor/imgui/imgui_demo.cpp",
+  "output": "CMakeFiles/WalnutApp.dir/vendor/imgui/imgui_demo.cpp.o"
+},
+{
+  "directory": "/home/rkandukuri/Tutorials/RayTracing/build",
+  "command": "/usr/bin/g++ -I/home/rkandukuri/Tutorials/RayTracing/Walnut/src -I/home/rkandukuri/Tutorials/RayTracing/WalnutApp/src -I/home/rkandukuri/Tutorials/RayTracing/vendor/imgui -I/home/rkandukuri/Tutorials/RayTracing/vendor/stb_image -g -std=gnu++17 -o CMakeFiles/WalnutApp.dir/vendor/imgui/imgui_draw.cpp.o -c /home/rkandukuri/Tutorials/RayTracing/vendor/imgui/imgui_draw.cpp",
+  "file": "/home/rkandukuri/Tutorials/RayTracing/vendor/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/WalnutApp.dir/vendor/imgui/imgui_draw.cpp.o"
+},
+{
+  "directory": "/home/rkandukuri/Tutorials/RayTracing/build",
+  "command": "/usr/bin/g++ -I/home/rkandukuri/Tutorials/RayTracing/Walnut/src -I/home/rkandukuri/Tutorials/RayTracing/WalnutApp/src -I/home/rkandukuri/Tutorials/RayTracing/vendor/imgui -I/home/rkandukuri/Tutorials/RayTracing/vendor/stb_image -g -std=gnu++17 -o CMakeFiles/WalnutApp.dir/vendor/imgui/imgui_tables.cpp.o -c /home/rkandukuri/Tutorials/RayTracing/vendor/imgui/imgui_tables.cpp",
+  "file": "/home/rkandukuri/Tutorials/RayTracing/vendor/imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/WalnutApp.dir/vendor/imgui/imgui_tables.cpp.o"
+},
+{
+  "directory": "/home/rkandukuri/Tutorials/RayTracing/build",
+  "command": "/usr/bin/g++ -I/home/rkandukuri/Tutorials/RayTracing/Walnut/src -I/home/rkandukuri/Tutorials/RayTracing/WalnutApp/src -I/home/rkandukuri/Tutorials/RayTracing/vendor/imgui -I/home/rkandukuri/Tutorials/RayTracing/vendor/stb_image -g -std=gnu++17 -o CMakeFiles/WalnutApp.dir/vendor/imgui/imgui_widgets.cpp.o -c /home/rkandukuri/Tutorials/RayTracing/vendor/imgui/imgui_widgets.cpp",
+  "file": "/home/rkandukuri/Tutorials/RayTracing/vendor/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/WalnutApp.dir/vendor/imgui/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/home/rkandukuri/Tutorials/RayTracing/build",
+  "command": "/usr/bin/g++ -I/home/rkandukuri/Tutorials/RayTracing/Walnut/src -I/home/rkandukuri/Tutorials/RayTracing/WalnutApp/src -I/home/rkandukuri/Tutorials/RayTracing/vendor/imgui -I/home/rkandukuri/Tutorials/RayTracing/vendor/stb_image -g -std=gnu++17 -o CMakeFiles/WalnutApp.dir/Walnut/src/Walnut/Application.cpp.o -c /home/rkandukuri/Tutorials/RayTracing/Walnut/src/Walnut/Application.cpp",
+  "file": "/home/rkandukuri/Tutorials/RayTracing/Walnut/src/Walnut/Application.cpp",
+  "output": "CMakeFiles/WalnutApp.dir/Walnut/src/Walnut/Application.cpp.o"
+},
+{
+  "directory": "/home/rkandukuri/Tutorials/RayTracing/build",
+  "command": "/usr/bin/g++ -I/home/rkandukuri/Tutorials/RayTracing/Walnut/src -I/home/rkandukuri/Tutorials/RayTracing/WalnutApp/src -I/home/rkandukuri/Tutorials/RayTracing/vendor/imgui -I/home/rkandukuri/Tutorials/RayTracing/vendor/stb_image -g -std=gnu++17 -o CMakeFiles/WalnutApp.dir/Walnut/src/Walnut/ImGui/ImGuiBuild.cpp.o -c /home/rkandukuri/Tutorials/RayTracing/Walnut/src/Walnut/ImGui/ImGuiBuild.cpp",
+  "file": "/home/rkandukuri/Tutorials/RayTracing/Walnut/src/Walnut/ImGui/ImGuiBuild.cpp",
+  "output": "CMakeFiles/WalnutApp.dir/Walnut/src/Walnut/ImGui/ImGuiBuild.cpp.o"
+},
+{
+  "directory": "/home/rkandukuri/Tutorials/RayTracing/build",
+  "command": "/usr/bin/g++ -I/home/rkandukuri/Tutorials/RayTracing/Walnut/src -I/home/rkandukuri/Tutorials/RayTracing/WalnutApp/src -I/home/rkandukuri/Tutorials/RayTracing/vendor/imgui -I/home/rkandukuri/Tutorials/RayTracing/vendor/stb_image -g -std=gnu++17 -o CMakeFiles/WalnutApp.dir/Walnut/src/Walnut/Image.cpp.o -c /home/rkandukuri/Tutorials/RayTracing/Walnut/src/Walnut/Image.cpp",
+  "file": "/home/rkandukuri/Tutorials/RayTracing/Walnut/src/Walnut/Image.cpp",
+  "output": "CMakeFiles/WalnutApp.dir/Walnut/src/Walnut/Image.cpp.o"
+},
+{
+  "directory": "/home/rkandukuri/Tutorials/RayTracing/build",
+  "command": "/usr/bin/g++ -I/home/rkandukuri/Tutorials/RayTracing/Walnut/src -I/home/rkandukuri/Tutorials/RayTracing/WalnutApp/src -I/home/rkandukuri/Tutorials/RayTracing/vendor/imgui -I/home/rkandukuri/Tutorials/RayTracing/vendor/stb_image -g -std=gnu++17 -o CMakeFiles/WalnutApp.dir/Walnut/src/Walnut/Input/Input.cpp.o -c /home/rkandukuri/Tutorials/RayTracing/Walnut/src/Walnut/Input/Input.cpp",
+  "file": "/home/rkandukuri/Tutorials/RayTracing/Walnut/src/Walnut/Input/Input.cpp",
+  "output": "CMakeFiles/WalnutApp.dir/Walnut/src/Walnut/Input/Input.cpp.o"
+},
+{
+  "directory": "/home/rkandukuri/Tutorials/RayTracing/build",
+  "command": "/usr/bin/g++ -I/home/rkandukuri/Tutorials/RayTracing/Walnut/src -I/home/rkandukuri/Tutorials/RayTracing/WalnutApp/src -I/home/rkandukuri/Tutorials/RayTracing/vendor/imgui -I/home/rkandukuri/Tutorials/RayTracing/vendor/stb_image -g -std=gnu++17 -o CMakeFiles/WalnutApp.dir/Walnut/src/Walnut/Random.cpp.o -c /home/rkandukuri/Tutorials/RayTracing/Walnut/src/Walnut/Random.cpp",
+  "file": "/home/rkandukuri/Tutorials/RayTracing/Walnut/src/Walnut/Random.cpp",
+  "output": "CMakeFiles/WalnutApp.dir/Walnut/src/Walnut/Random.cpp.o"
+}
+]
