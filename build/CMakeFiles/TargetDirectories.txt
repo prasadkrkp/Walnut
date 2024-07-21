@@ -1,3 +1,0 @@
-/home/rkandukuri/Tutorials/RayTracing/build/CMakeFiles/WalnutApp.dir
-/home/rkandukuri/Tutorials/RayTracing/build/CMakeFiles/edit_cache.dir
-/home/rkandukuri/Tutorials/RayTracing/build/CMakeFiles/rebuild_cache.dir
